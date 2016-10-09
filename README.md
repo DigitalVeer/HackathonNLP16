@@ -1,6 +1,7 @@
 # HackathonNLP16
 
-To obtain the movie files I used, you will need to install NLTK.
+To obtain the movie files I used without modifying, you will need to install NLTK.
+NLTK is a natural language processing toolkit originally developed by the University of Pennsylvania
 
 Install NLTK: run `sudo pip install -U nltk`
 
